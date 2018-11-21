@@ -18,8 +18,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    for (int i = 0; i<100; i++) {
-        NSLog(@"i");
-    }
+    
 }
 @end
