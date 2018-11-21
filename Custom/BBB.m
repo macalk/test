@@ -10,4 +10,6 @@
 
 @implementation BBB
 
+#define sss
+
 @end
