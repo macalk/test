@@ -16,6 +16,7 @@
 		3428A25121A5410300D01EE6 /* CustomTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3428A25021A5410300D01EE6 /* CustomTests.m */; };
 		3428A25C21A5410300D01EE6 /* CustomUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3428A25B21A5410300D01EE6 /* CustomUITests.m */; };
 		3428A26B21A5462500D01EE6 /* AAA.m in Sources */ = {isa = PBXBuildFile; fileRef = 3428A26A21A5462500D01EE6 /* AAA.m */; };
+		3428A26E21A55B0E00D01EE6 /* BBB.m in Sources */ = {isa = PBXBuildFile; fileRef = 3428A26D21A55B0E00D01EE6 /* BBB.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		3428A25D21A5410300D01EE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3428A26921A5462500D01EE6 /* AAA.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AAA.h; sourceTree = "<group>"; };
 		3428A26A21A5462500D01EE6 /* AAA.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AAA.m; sourceTree = "<group>"; };
+		3428A26C21A55B0E00D01EE6 /* BBB.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BBB.h; sourceTree = "<group>"; };
+		3428A26D21A55B0E00D01EE6 /* BBB.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BBB.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				3428A23B21A5410200D01EE6 /* ViewController.m */,
 				3428A26921A5462500D01EE6 /* AAA.h */,
 				3428A26A21A5462500D01EE6 /* AAA.m */,
+				3428A26C21A55B0E00D01EE6 /* BBB.h */,
+				3428A26D21A55B0E00D01EE6 /* BBB.m */,
 				3428A23D21A5410200D01EE6 /* Main.storyboard */,
 				3428A24021A5410300D01EE6 /* Assets.xcassets */,
 				3428A24221A5410300D01EE6 /* LaunchScreen.storyboard */,
@@ -269,6 +274,7 @@
 			files = (
 				3428A23C21A5410200D01EE6 /* ViewController.m in Sources */,
 				3428A24721A5410300D01EE6 /* main.m in Sources */,
+				3428A26E21A55B0E00D01EE6 /* BBB.m in Sources */,
 				3428A23921A5410200D01EE6 /* AppDelegate.m in Sources */,
 				3428A26B21A5462500D01EE6 /* AAA.m in Sources */,
 			);
