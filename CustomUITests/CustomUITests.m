@@ -1,6 +1,6 @@
 //
-//  testUITests.m
-//  testUITests
+//  CustomUITests.m
+//  CustomUITests
 //
 //  Created by 鲁振 on 2018/11/21.
 //  Copyright © 2018 鲁振. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface testUITests : XCTestCase
+@interface CustomUITests : XCTestCase
 
 @end
 
-@implementation testUITests
+@implementation CustomUITests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.

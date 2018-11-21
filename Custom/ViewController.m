@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  test
+//  Custom
 //
 //  Created by 鲁振 on 2018/11/21.
 //  Copyright © 2018 鲁振. All rights reserved.
@@ -16,20 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib;
-    
-    NSLog(@"1111111");
-    
-    NSLog(@"1111111");
-
-    NSLog(@"1111111");
-
-    NSLog(@"1111111");
-    
-    NSLog(@"2222222");
-    
-    NSLog(@"2222222");
-
+    // Do any additional setup after loading the view, typically from a nib.
 }
 
 
