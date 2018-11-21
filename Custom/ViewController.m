@@ -17,10 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"11");
-    NSLog(@"11");
-    NSLog(@"11");
-
+}
+- (void)customAD {
+    
 }
 
 
