@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"111");
-    NSLog(@"2222");
+    NSLog(@"222211111");
     if (@"") {
         
     }
